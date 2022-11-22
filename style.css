@@ -1,0 +1,43 @@
+body{
+    background: url("Background Image.jpg");
+    background-size: cover;
+    background-position:center;
+}
+h1{
+    background-color:aqua;
+    color:black;
+    width: 100%;
+    padding: 10px;
+    font-family:cursive;
+    font-style:italic;
+}
+p{
+    font-size:large;
+    background-color: aqua;
+    color:black;
+    padding: 10px;
+    font-family: cursive;
+    font-style:italic ;
+}
+#score{
+    margin-left: 20px;
+    float: left;
+     background-color: aqua;
+    color:black;
+}
+#timer{
+    float: right;
+    margin-right: 20px;
+    background-color: aqua;
+    color: black;
+
+}
+#yourSketch{
+    color: black;
+}
+canvas{
+    margin-top: 100px;
+}
+   
+
+    
